@@ -11,3 +11,6 @@ Currently available:
 
 - [Lithium](lithium) (in development), a simplified version of Dilithium (Lithium is suitable for powering 
 [very small starships](https://hitchhikers.fandom.com/wiki/List_of_races_and_species_in_The_Hitchhiker%27s_Guide_to_the_Galaxy#G'Gugvuntts_and_Vl'hurgs).)
+
+
+![Eve, the ENERCELL elephant](enercell-trans.png "Eve, the ENERCELL elephant")
