@@ -5,12 +5,12 @@ of post-quantum (a.k.a. quantum-safe) cryptographic algorithms suitable for clas
 Demitasse, and JHA.)
 
 Currently available:
-- [Alkaline](alkaline), a simplified version of Kyber (Alkaline is suitable for powering very weak light-sabers.)
+- [Alkaline](alkaline), a simplified version of Kyber (also suitable for powering very weak light-sabers)
 	- Smeagol, a.k.a. Alkaline-LA, a version which requires only Linear Algebra (similar to Frodo)
 	- Phantom, a.k.a. Alkaline-ALG, a version which requires only Abstract Algebra (similar to NewHope)
 
-- [Lithium](lithium) (in development), a simplified version of Dilithium (Lithium is suitable for powering 
-[very small starships](https://hitchhikers.fandom.com/wiki/List_of_races_and_species_in_The_Hitchhiker%27s_Guide_to_the_Galaxy#G'Gugvuntts_and_Vl'hurgs).)
+- [Lithium](lithium) (in development), a simplified version of Dilithium (also suitable for powering 
+[very small starships](https://hitchhikers.fandom.com/wiki/List_of_races_and_species_in_The_Hitchhiker%27s_Guide_to_the_Galaxy#G'Gugvuntts_and_Vl'hurgs))
 
 - Resource Guide for Teaching Post-Quantum Cryptography
 	- [published version](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2078077)	
