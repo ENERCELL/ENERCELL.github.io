@@ -18,5 +18,5 @@ algorithm.
 		- [slides](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-advanced/lithium-talk.pdf)
 
 	- Sage worksheets:
-		- [Lithium example](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-advanced/Lithium%20example.ipynb)
-		- [Lithium-LA example](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-advanced/Lithium-LA%20example.ipynb)
+		- [Lithium Advanced example](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-advanced/Lithium%20example.ipynb)
+		- [Lithium Avanced-LA example](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-advanced/Lithium-LA%20example.ipynb)
