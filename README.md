@@ -1,3 +1,4 @@
+# [holden@rose-hulman.edu](mailto:holden@rose-hulman.edu)
 # ElectroNic ExeRcises for CiphEricaL Learning
 
 This is the home of the ENERCELL project, which is devoted to developing simplified versions 
