@@ -1,4 +1,3 @@
-# [holden@rose-hulman.edu](mailto:holden@rose-hulman.edu)
 # ElectroNic ExeRcises for CiphEricaL Learning
 
 This is the home of the ENERCELL project, which is devoted to developing simplified versions 
@@ -19,5 +18,8 @@ Currently available:
 - Resource Guide for Teaching Post-Quantum Cryptography
 	- [published version](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2078077)	
 	- [preprint](https://arxiv.org/abs/2207.00558)
+
+ # [holden@rose-hulman.edu](mailto:holden@rose-hulman.edu)
+
 	
 ![Eve, the ENERCELL elephant](enercell-trans.png "Eve, the ENERCELL elephant")
