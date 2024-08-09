@@ -19,7 +19,7 @@ Currently available:
 	- [published version](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2078077)	
 	- [preprint](https://arxiv.org/abs/2207.00558)
 
-# Email me at [holden@rose-hulman.edu](mailto:holden@rose-hulman.edu) about ENERCELL or the Cryaptography Educators talk series
+# Email me at [holden@rose-hulman.edu](mailto:holden@rose-hulman.edu) about ENERCELL or the Cryptography Educators talk series
 
 	
 ![Eve, the ENERCELL elephant](enercell-trans.png "Eve, the ENERCELL elephant")
