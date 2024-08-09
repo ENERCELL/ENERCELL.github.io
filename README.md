@@ -1,4 +1,4 @@
-## ElectroNic ExeRcises for CiphEricaL Learning
+# ElectroNic ExeRcises for CiphEricaL Learning
 
 This is the home of the ENERCELL project, which is devoted to developing simplified versions 
 of post-quantum (a.k.a. quantum-safe) cryptographic algorithms suitable for classroom use.  (In the spirit of 
