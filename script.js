@@ -1,4 +1,3 @@
-
 /* This code comes from Academo.org */
 var demo = new Demo({
 	ui: {
@@ -112,4 +111,3 @@ var demo = new Demo({
 		}
 	}
 });
-					
