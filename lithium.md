@@ -21,4 +21,4 @@ algorithm.
 		- [Lithium Advanced example](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-advanced/Lithium%20example.ipynb)
 		- [Lithium Advanced-LA example](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-advanced/Lithium-LA%20example.ipynb)
 
-- A web demonstration of [rejection sampling](rejection-sampling-demo.html)
+- A web demonstration of [rejection sampling](rejection-sampling-demo.html) and why the [obvious sampling method](nonuniform-sampling-demo.html) for circles doesn't work.
