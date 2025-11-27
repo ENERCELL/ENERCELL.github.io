@@ -4,17 +4,16 @@ algorithm.
 - Lithium Hash-Free (uses a non-cryptographic diffusion box instead of a cryptographic hash function)
 
 	- Paper: Dilithium/2 = Lithium? Post-quantum signatures for undergraduate classes
-		- [published version](https://www.tandfonline.com/doi/full/10.1080/10511970.2023.2235696)
-		- [preprint](https://github.com/joshuarbholden/alkaline/blob/main/alkaline-post.pdf)
+		- [preprint](https://github.com/joshuarbholden/Lithium/blob/main/Hash-Free%20Lithium/lithium-post.pdf)
 
 	- Presentation: 	
 		- Dilithium/2 = Lithium? Post-quantum signatures for undergraduate classes ("Hash-Free" version)
-		- [slides](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-standard/lithium-standard-talk.pdf)
+		- [slides](https://github.com/joshuarbholden/Lithium/blob/main/Hash-Free%20Lithium/lithium-hashfree-talk.pdf)
 
 	- Sage worksheets:
-		- [Lithium Standard example](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-standard/lithium-standard-example.ipynb)
-		- [Lithium Standard-LA example](https://github.com/joshuarbholden/Lithium/blob/main/Lithium-standard/lithium-standard-LA-example.ipynb)	
-		
+		- [Lithium Hash-Free example](https://github.com/joshuarbholden/Lithium/blob/main/Hash-Free%20Lithium/hashfree-lithium-example.ipynb)
+		- [Lithium Hash-Free-LA example](https://github.com/joshuarbholden/Lithium/blob/main/Hash-Free%20Lithium/hashfree-lithium-LA-example.ipynb)
+		- [Lithium Hash-Free 22 example](https://github.com/joshuarbholden/Lithium/blob/main/Hash-Free%20Lithium/hashfree-lithium22-example.ipynb)
 
 - Lithium Standard
 
